@@ -16,7 +16,9 @@
     "@react-hook/window-size": "^3.1.1",
     "react": "^19.1.0",
     "react-confetti": "^6.4.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react-scroll": "^1.9.3",
+    "swiper": "^11.2.10"
   },
   "devDependencies": {
     "@eslint/js": "^9.29.0",
