@@ -1,7 +1,7 @@
 import React from "react";
-import 'swiper/css';
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
+import "swiper/css";
+import "swiper/css/navigation";
+import "swiper/css/pagination";
 import { Container, Typography, Button, Box } from "@mui/material";
 import { Link as ScrollLink } from "react-scroll";
 
@@ -59,7 +59,7 @@ function App() {
               textAlign: { xs: "center", sm: "left" },
             }}
           >
-            Anjali ❤️ Saurabh
+            Saurabh ❤️ Anjali
           </Typography>
 
           <Box
