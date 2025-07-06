@@ -36,7 +36,7 @@ function VideoGallery() {
           mb: 4,
         }}
       >
-        Special Videos for You 🎥💖
+        Special Videos 🎥💖
       </Typography>
 
       <Swiper
